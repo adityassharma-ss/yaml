@@ -14,4 +14,4 @@ Benifits of YAML:
 Simple and easy to read
 Nice and Strict Syntax
 Most Languages use it
-More powerful when representing complex data
+More powerful when representing complex data.
