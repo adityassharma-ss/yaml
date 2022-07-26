@@ -8,7 +8,8 @@ Applications written with different technologies or languages which have differe
 
 It is a Data Serialization Language
 
-## Data Serialization: Translation of Object (Code + Data) into stream of bytes that saves the state of this object in a form that is transmittable. Using Serialization, data can be converted into code and code can be converted into data again.
+## Data Serialization: 
+Translation of Object (Code + Data) into stream of bytes that saves the state of this object in a form that is transmittable. Using Serialization, data can be converted into code and code can be converted into data again.
 Benifits of YAML:
 
 Simple and easy to read
